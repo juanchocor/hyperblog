@@ -3,4 +3,20 @@ body
     color: blueviolet;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid rgb(146, 145, 146) ;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+
 }
