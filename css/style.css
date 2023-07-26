@@ -24,3 +24,19 @@ body
 {
     font-size: 40px;
 }
+#cabecera
+{
+background-color: rgb(118, 118, 143);
+box-shadow: inset;
+color: white;
+font-weight: bold;
+margin: 0%;
+padding: 0%, 5rem;
+}
+
+#cabecera #tagline
+{
+padding: 0 0 0 1em;
+font-weight: normal;
+font-size: 1em;
+}
