@@ -17,6 +17,10 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 50px;
 
+}
+#container p
+{
+    font-size: 40px;
 }
