@@ -1,0 +1,42 @@
+body
+{
+    color: red;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid rgb(146, 145, 146) ;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 50px;
+
+}
+#container p
+{
+    font-size: 40px;
+}
+#cabecera
+{
+background-color: rgb(118, 118, 143);
+box-shadow: inset;
+color: white;
+font-weight: bold;
+margin: 0%;
+padding: 0%, 5rem;
+}
+
+#cabecera #tagline
+{
+padding: 0 0 0 1em;
+font-weight: normal;
+font-size: 1em;
+}
